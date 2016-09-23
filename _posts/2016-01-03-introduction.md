@@ -5,7 +5,7 @@ title: Introduction
 
 *弟本布衣，就读于山东某高校，深藏功与名，不求闻达于网络...
 
-
+Dreams：
 
 假如可以选择生活，我宁愿简简单单。一个茶杯，一桩茅屋 ，一亩良田，
 
@@ -15,13 +15,13 @@ title: Introduction
 
 -----
 
-Welcome to find me on [QzoneWaynic](http://user.qzone.qq.com/1164275839), the Qzone for official Me Media . It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+Welcome to find me on [QzoneWaynic](http://user.qzone.qq.com/1164275839), the Qzone for official Me Media.
 
-There are currently three themes built on Poole:
+There are currently three way to find me at Website:
 
-* [Weibo](http://weibo.com/5344367757/profile?rightmod=1&wvr=6&mod=personinfo)
-* [PersonalQzone](http://user.qzone.qq.com/806138756), 
-* [Facebook](http://enfield.getpoole.com)
+* [Weibo](http://weibo.com/5344367757/profile?rightmod=1&wvr=6&mod=personinfo),   顾熙嘻嘻嘻嘻
+* [PersonalQzone](http://user.qzone.qq.com/806138756),                           Waynic    
+* [Facebook](http://enfield.getpoole.com)Waynic Gu
 * [简书](http://)
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
