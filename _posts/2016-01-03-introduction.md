@@ -20,15 +20,18 @@ Welcome to find me on [QzoneWaynic](http://user.qzone.qq.com/1164275839), the Qz
 There are currently three way to find me at Website:
 
 * [Weibo](http://weibo.com/5344367757/profile?rightmod=1&wvr=6&mod=personinfo),   顾熙嘻嘻嘻嘻
-* [PersonalQzone](http://user.qzone.qq.com/806138756),                           Waynic    
-* [Facebook](http://enfield.getpoole.com)Waynic Gu
+* [PersonalQzone](http://user.qzone.qq.com/806138756),                            Waynic    
+* [Facebook](http://enfield.getpoole.com),                                        Waynic Gu
 * [简书](http://)
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
 
 ### What's included
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
+*Life
+*Travel
+*Coding programming
+*Play&Study
 
 * Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
 * Mobile friendly design and development
