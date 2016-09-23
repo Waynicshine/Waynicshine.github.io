@@ -1,17 +1,17 @@
----
+ï»¿---
 layout: post
 title: Introduction
 ---
 
-*µÜ±¾²¼ÒÂ£¬¾Í¶ÁÓÚÉ½¶«Ä³¸ßĞ££¬Éî²Ø¹¦ÓëÃû£¬²»ÇóÎÅ´ïÓÚÍøÂç...
+*å¼Ÿæœ¬å¸ƒè¡£ï¼Œå°±è¯»äºå±±ä¸œæŸé«˜æ ¡ï¼Œæ·±è—åŠŸä¸åï¼Œä¸æ±‚é—»è¾¾äºç½‘ç»œ...
 
 Dreams:
 
-¼ÙÈç¿ÉÒÔÑ¡ÔñÉú»î£¬ÎÒÄşÔ¸¼ò¼òµ¥µ¥¡£Ò»¸ö²è±­£¬Ò»×®Ã©Îİ £¬Ò»Ä¶Á¼Ìï£¬
+å‡å¦‚å¯ä»¥é€‰æ‹©ç”Ÿæ´»ï¼Œæˆ‘å®æ„¿ç®€ç®€å•å•ã€‚ä¸€ä¸ªèŒ¶æ¯ï¼Œä¸€æ¡©èŒ…å±‹ ï¼Œä¸€äº©è‰¯ç”°ï¼Œ
 
 
 
-Ò»¸öÒÚ´æ¿î...
+ä¸€ä¸ªäº¿å­˜æ¬¾...
 
 -----
 
@@ -22,7 +22,7 @@ There are currently three themes built on Poole:
 * [Weibo](http://weibo.com/5344367757/profile?rightmod=1&wvr=6&mod=personinfo)
 * [PersonalQzone](http://user.qzone.qq.com/806138756), 
 * [Facebook](http://enfield.getpoole.com)
-* [¼òÊé](http://)
+* [ç®€ä¹¦](http://)
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
 
