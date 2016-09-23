@@ -5,7 +5,19 @@ title: Example content
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! This is an blog of mines.It's have the Unique website for Waynic.
+
+Intruduction:
+
+弟本布衣，就读于山东某高校，深藏功与名，不求闻达于网络...
+
+Dreams:
+
+假如可以选择生活，我宁愿简简单单。一个茶杯，一桩茅屋 ，一亩良田，
+
+
+
+一个亿存款...
 </div>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
