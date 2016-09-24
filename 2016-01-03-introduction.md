@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-弟本布衣，就读于山东某高校，深藏功与名，不求闻达于网络...
+  弟本布衣，就读于山东某高校，深藏功与名，不求闻达于网络...
 
 **Dreams：**
 
@@ -20,18 +20,15 @@ Welcome to find me on [QzoneWaynic](http://user.qzone.qq.com/1164275839), the Qz
 There are currently three way to find me at Website:
 
 * [Weibo](http://weibo.com/5344367757/profile?rightmod=1&wvr=6&mod=personinfo),   顾熙嘻嘻嘻嘻
-* [PersonalQzone](http://user.qzone.qq.com/806138756),                            Waynic    
-* [Facebook](http://enfield.getpoole.com),                                        Waynic Gu
-* [简书](http://)
+* [PersonalQzone](http://user.qzone.qq.com/806138756),                        Waynic    
+* [Facebook](http://enfield.getpoole.com),                                      Waynic Gu
+* [简书](http://)，痞子G
 
 Learn more and contribute on [GitHub]({{ site.github.repo }}).
 
 ### What's included
 
-    **Life**
-    **Travel**
-    **Coding programming**
-    **Play&Study**
+      Life  Travel  Coding programming  Play&Study
 
 
 
