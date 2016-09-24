@@ -1,14 +1,65 @@
----
+﻿---
 layout: post
-title: curabitur
+title: Curabitur
 date: 2015-02-06T14:37:44.000Z
 categories: update
 ---
 
-<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien ac magna posuere imperdiet eget id nisi.
+<img src="/images/fulls/01.jpg" class="fit image">Curabitur
 
-Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.
+>“曾几何时，芝麻大点的事，我都会发发朋友圈”
+     "时至今日，哪怕再大的事，我都会把它放这里...”
 
-Maecenas posuere sodales magna id tincidunt. Nunc sapien ipsum, efficitur et mauris nec, tristique gravida leo. Donec at bibendum lectus, sit amet fringilla risus. Donec et justo mi. In risus risus, faucibus eget eros eget, tincidunt posuere purus. Maecenas porta lacus metus, nec varius enim egestas ac. In hac habitasse platea dictumst. Nullam a nisi nulla. Nam vel varius enim, sit amet fringilla massa. Proin vel aliquam felis, quis scelerisque arcu.
+简单的生活
+简单的交往
+简单的思考
+简单的努力
+生活如此简单不要掺杂些无聊的人和事
+在你的世界里多上乱七八糟的笔画
+远离phone
+远离那些干扰你的人，过上自己清静的生活
+当然这不是消极避世
+而是在厚积薄发
+不积跬步无以至千里
+不积小流无以成江海
+生活虽然琐事无数，缤纷繁杂
+可是你的世界可以 平静如水，波澜不惊
+如同幽深竹林里面的翠竹
+看似寂静无声
+实则拔节涌动~
+人生不可能一直都是登台表演
+台上一分钟，台下十年功
+现在最需要的就是磨练自己的功夫！
+按照知乎计划上 的有目的的去learn english
+慢慢的锻炼自己   把自己变成一个有趣的人
+任何事物都可以是你的老师，生活中细细观察，总是有那么意想不到的惊喜
+仿佛柳暗花明，顿时豁然开朗
 
-Sed consequat mi id malesuada efficitur. Vestibulum efficitur tortor ut dictum porta. Morbi dapibus viverra risus, et laoreet lorem commodo et. Donec hendrerit posuere magna a efficitur. Nullam euismod eget nulla eget iaculis. Donec porttitor faucibus porta. Morbi et risus dolor. Mauris venenatis sem id neque hendrerit ultrices.
+也要仔细的去进步去努力，改变一下自己
+
+慢慢走进他人的生活变成一个need man!
+线下是大三了，其实之后自己要走的每一步都要细细考虑好了才可以迈步！
+做的话就要做到最好！有心计不能让人感觉有心机
+宽厚待人，心计用到自己发展在身上，心机用到体贴照顾方面
+健康生活
+积极向上
+体育锻炼不可在缺乏
+
+
+游戏给你了一个世界：
+人物有天赋为什么不再努力一把呢？
+
+现实世界又何曾不是这样呢?
+只不过有时候你的天赋你自己不知道罢了！
+
+其实我看来
+在我身边的每一个人都拥有着自己的潜能 or 能量吧
+
+这种东西很难自己觉察到
+很多时候都是别人察觉到的
+任何人在成长历程中都会有让人感觉到有点厉害的地方，，，你觉得天经地义，平淡无奇的结果很多人都会大吃一惊，刮目相看呢！
+
+今天随感就写到这儿吧！任性而为，不知所言。。。希望自己的这些习惯，日后继续保持下去吧！
+对了，感觉这学期写档能力上来了，即将准备进军知乎！
+事毕，睡觉！
+
