@@ -5,7 +5,7 @@ date: 2015-02-06T14:37:44.000Z
 categories: update
 ---
 
-<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse
+<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse《我的Jay时代》每个人的青春都有一首周杰伦~我关于充满Jay记忆的青春就像是这样...
 
 《我的Jay时代》
 每个人的青春都有一首周杰伦~我关于充满Jay记忆的青春就像是这样...
