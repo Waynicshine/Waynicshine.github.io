@@ -1,32 +1,25 @@
-# Permalinks
-permalink:           pretty
+# Site settings
 
-# Setup
-title:               Waynic
-tagline:             The Waynic's Blog
-url:                 https://waynicshine.github.io/
-paginate:            1
-baseurl:             ""
+title: Waynic # Title of your site
+email: Waynicshine@gmail.com # Your contant email
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://waynic.github.io/" # the base hostname & protocol for your site
 
-# About/contact
-author:
-  name:              Waynic Gu
-  url:               https://twitter.com/mdo
-  email:             805138756@qq.com
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+twitter_username:     example  # Replace this with your Twitter username
+github_username:      waynic  # Replace this with your GitHub username
+linkedin_username:    example  # Replace this with your LinkedIn username
+google_plus_username: example  # Replace this with your Google+ username
+facebook_username:    Waynic Gu  # Replace this with your Facebook username
+dribbble_username:    example  # Replace this with your Dribbble username
 
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# Build settings
+markdown: kramdown
