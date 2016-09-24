@@ -5,7 +5,7 @@ date: 2015-02-06T14:37:44.000Z
 categories: update
 ---
 
-<img src="/images/fulls/01.jpg" class="fit image">Curabitur
+<img src="/images/fulls/03.jpg" class="fit image">Curabitur
 
 >“曾几何时，芝麻大点的事，我都会发发朋友圈”
      "时至今日，哪怕再大的事，我都会把它放这里...”
